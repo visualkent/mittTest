@@ -28,7 +28,7 @@ SET NAMES 'latin1';
 USE minaskivor;
 
 --
--- Definition for table tblskivor
+-- Definition for table tblskivor. Testing testing för github
 --
 DROP TABLE IF EXISTS tblskivor;
 CREATE TABLE tblskivor (
