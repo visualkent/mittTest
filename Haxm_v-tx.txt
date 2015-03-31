@@ -1,0 +1,9 @@
+Kontrollera ifall hyper v är installerat. Finns under kontrollpanelen program-funktioner. Aktivera/inaktivera windowsfunktioner
+
+https://software.intel.com/en-us/forums/topic/499103
+https://software.intel.com/en-us/android/articles/installation-instructions-for-intel-hardware-accelerated-execution-manager-windows
+
+"This computer meets the requirements for HAXM, but Intel Virtualization Technology (VT-x) is not turned on. HAXM can be installed but will not work until VT-x is enabled.
+Go to MyPC / right click / Advanced System Settings / Advanced / In Performance click SETTINGS / Data Execution Prevention and enable DEP for all programs and services.
+
+https://forum.avast.com/index.php?topic=162445.0
