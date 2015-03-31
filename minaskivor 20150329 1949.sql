@@ -28,7 +28,7 @@ SET NAMES 'latin1';
 USE minaskivor;
 
 --
--- Definition for table tblskivor. Testing testing för github
+-- Definition for table tblskivor. Testing testing för github. Ännu en gång syns detta?
 --
 DROP TABLE IF EXISTS tblskivor;
 CREATE TABLE tblskivor (
